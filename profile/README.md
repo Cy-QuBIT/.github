@@ -2,7 +2,7 @@
 
 <div class="pictures", align="left">
     <a href="./">
-        <img src="logo_2bg.png" width="50%"/>
+        <img src="logo_3bg.png" width="50%"/>
     </a>
 </div>
 
