@@ -10,6 +10,14 @@ Welcome to **Cyqubit Lab** — the Cybersecurity and Quantum Biomedical Interdis
 
 Cyqubit Lab is a research group focused on advancing the intersection of *quantum computing*, *cybersecurity*, and *biomedical systems*. Our mission is to explore fundamental and applied problems that arise at the crossroads of these fields, bringing together cutting-edge methods from quantum information science and secure computing to address real-world challenges.
 
+
+<div class="pictures", align="center">
+    <a href="./">
+        <img src="image.png" width="90%"/>
+    </a>
+</div>
+
+
 ### 🔬 What We Do
 
 - Conduct interdisciplinary research in **quantum computing**, **cybersecurity**, and **biomedical technologies**.
